@@ -19,6 +19,7 @@ REALISATION:
 Choose all necessary tools at your will and preferences.
 
 BONUS POINTS:
+
 1. To add in the definition data base an additional field for each name, which should count how many times this name has been clicked (and the corresponding image displayed).
 
 2. To develop and implement a functionality for adding/updating/deleting NUMBER elements in the table.
